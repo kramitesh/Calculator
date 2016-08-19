@@ -1,0 +1,4 @@
+c:\users\capgemini\documents\visual studio 2013\Projects\CalcSolution\Calculator.Design\bin\Debug\Calculator.Design.dll
+c:\users\capgemini\documents\visual studio 2013\Projects\CalcSolution\Calculator.Design\bin\Debug\Calculator.Design.pdb
+c:\users\capgemini\documents\visual studio 2013\Projects\CalcSolution\Calculator.Design\obj\Debug\Calculator.Design.dll
+c:\users\capgemini\documents\visual studio 2013\Projects\CalcSolution\Calculator.Design\obj\Debug\Calculator.Design.pdb

@@ -1,0 +1,5 @@
+c:\users\capgemini\documents\visual studio 2013\Projects\CalcSolution\CalcConsole\bin\Debug\CalcConsole.exe.config
+c:\users\capgemini\documents\visual studio 2013\Projects\CalcSolution\CalcConsole\bin\Debug\CalcConsole.exe
+c:\users\capgemini\documents\visual studio 2013\Projects\CalcSolution\CalcConsole\bin\Debug\CalcConsole.pdb
+c:\users\capgemini\documents\visual studio 2013\Projects\CalcSolution\CalcConsole\obj\Debug\CalcConsole.exe
+c:\users\capgemini\documents\visual studio 2013\Projects\CalcSolution\CalcConsole\obj\Debug\CalcConsole.pdb

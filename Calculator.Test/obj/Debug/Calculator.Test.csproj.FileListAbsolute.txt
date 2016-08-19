@@ -1,0 +1,9 @@
+c:\users\capgemini\documents\visual studio 2013\Projects\CalcSolution\Calculator.Test\bin\Debug\Calculator.Test.dll
+c:\users\capgemini\documents\visual studio 2013\Projects\CalcSolution\Calculator.Test\bin\Debug\Calculator.Test.pdb
+c:\users\capgemini\documents\visual studio 2013\Projects\CalcSolution\Calculator.Test\bin\Debug\nunit.framework.dll
+c:\users\capgemini\documents\visual studio 2013\Projects\CalcSolution\Calculator.Test\bin\Debug\nunit.framework.xml
+c:\users\capgemini\documents\visual studio 2013\Projects\CalcSolution\Calculator.Test\obj\Debug\Calculator.Test.csprojResolveAssemblyReference.cache
+c:\users\capgemini\documents\visual studio 2013\Projects\CalcSolution\Calculator.Test\obj\Debug\Calculator.Test.dll
+c:\users\capgemini\documents\visual studio 2013\Projects\CalcSolution\Calculator.Test\obj\Debug\Calculator.Test.pdb
+c:\users\capgemini\documents\visual studio 2013\Projects\CalcSolution\Calculator.Test\bin\Debug\Calculator.Design.dll
+c:\users\capgemini\documents\visual studio 2013\Projects\CalcSolution\Calculator.Test\bin\Debug\Calculator.Design.pdb
